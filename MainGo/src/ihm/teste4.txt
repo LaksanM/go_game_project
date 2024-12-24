@@ -1,0 +1,9 @@
+1 boardsize 45
+1boardsize 16
+1 boardsize 9
+showboard
+play black A1
+play white A2ERBZERB
+play white B9341
+play black black
+quit
